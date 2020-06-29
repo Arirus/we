@@ -24,7 +24,7 @@ preview:
   model: wave  #cloud
   welcome_image: /life/images/theme/welcome-image.jpg
   motto:
-    default: But I see you.That is crazy.
+    default: 生活很奇妙，生活很美好。
     api:  #'http://localhost:3000/api/motto'
 
 # Menu

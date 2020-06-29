@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xuaner & ari
-subtitle: 'lyxuaner and arirus'
+title: 咱们仨
+subtitle: '可爱的家'
 description: ''
 keywords:
-author: lyxuaner arirus
+author: arirus
 language: cn
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://arirus.github.io/life
+url: https://arirus.github.io/we
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -99,7 +99,7 @@ theme: zhaoo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://github.com/Arirus/life
+  repo: https://github.com/Arirus/we
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
