@@ -37,7 +37,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - name: Install Dependencies
-        if: steps.cache.outp
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npm ci
 
       - name: Hexo Action
         # You may pin to the exact commit or the version.
