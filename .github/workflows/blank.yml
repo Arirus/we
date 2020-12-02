@@ -32,6 +32,6 @@ jobs:
           # Github email
           user_email: arirus.dev@gmail.com # default is 41898282+github-actions[bot]@users.noreply.github.com
           # The deploy key for Github Pages repo
-          deploy_key: ssh-key
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
           # Git commit messages to your GitHub Pages repository.
           commit_msg: # optional, default is 
