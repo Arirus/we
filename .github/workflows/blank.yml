@@ -46,7 +46,7 @@ jobs:
         uses: sma11black/hexo-action@v1.0.4
         with:
           # Github user name
-          user_name: arirus
+          user_name: Arirus
           # Github email
           user_email: arirus.dev@gmail.com # default is 41898282+github-actions[bot]@users.noreply.github.com
           # The deploy key for Github Pages repo
