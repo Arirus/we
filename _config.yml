@@ -99,7 +99,7 @@ theme: zhaoo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://github.com/Arirus/we
+  repo: git@github.com:Arirus/we.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
 
