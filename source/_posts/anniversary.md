@@ -2,7 +2,7 @@
 title: 纪念日
 date: 2020-12-2 23:27:21
 tags: 
-image: /2020/12/2/纪念日/291607005378_.pic.jpg
+image: /2020/12/2/anniversary/291607005378_.pic.jpg
 ---
 
 {% meting "228755" "netease" "song" "autoplay" "mutex:false" %}
